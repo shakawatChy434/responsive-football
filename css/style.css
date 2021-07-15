@@ -147,6 +147,16 @@ Last_Banner_Part_Start...
 Last_Banner_Part_End...
 **************************** */
 
+
+.video-details{
+    width: 300px;
+}
+.all-videos{
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
 /*.*************************
 Footer_Part_Start...
 **************************** */
