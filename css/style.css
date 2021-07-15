@@ -21,7 +21,7 @@ Navigation_Part_Start..
 ------------------------ */
 .header-names{
     width:75%;
-    padding-bottom: 20px;
+    padding: 30px;
     display: flex;
     flex-direction: row;
     justify-content:space-between;
