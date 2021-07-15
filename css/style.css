@@ -57,7 +57,7 @@ Bannar_Part_Start..
 
 ------------------------ */
 .banner-title{
-    width: 73.8%;
+    width: 0 auto;
     display: flex;
     flex-direction:row;
     align-items: center;
