@@ -4,20 +4,24 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .container{
-    /* margin-top: 50px; */
+    margin-top: 50px;
     margin-bottom: 50px;
     display: flex;
     flex-direction:column;
     align-items: center;
+}
+.sub-container{
+    margin-top:0;
+    margin-bottom:0;
+    
 }
 /* ---------------------
 Navigation_Part_Start..
 
 ------------------------ */
 .header-names{
-    width: 100%;
-    margin-left: 105px;
-    padding: 50px 0;
+    width: 0 auto;
+    padding-bottom: 20px;
     display: flex;
     flex-direction: row;
     justify-content:space-between;
@@ -53,13 +57,14 @@ Bannar_Part_Start..
 
 ------------------------ */
 .banner-title{
+    width: 73.8%;
     display: flex;
     flex-direction:row;
     align-items: center;
     background-color:#2D25A0;
 }
 .banner-info{
-    width: 485px;
+    width: 100%;
     height: 230px;
     font-size:25px;
     margin-left:155px;
@@ -69,7 +74,7 @@ Bannar_Part_Start..
 .banner img{
 width: 556.01px;
 height: 438px;
-margin-left: 178px;
+margin-left: 95px;
 margin-bottom: 104px;
 }
 .btn{
